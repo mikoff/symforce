@@ -22,7 +22,7 @@ setuptools
     # via symforce (pyproject.toml)
 setuptools-scm
     # via symforce (pyproject.toml)
-file:./third_party/skymarshal
+skymarshal
     # via symforce (pyproject.toml)
 file:./gen/python
     # via symforce (pyproject.toml)
